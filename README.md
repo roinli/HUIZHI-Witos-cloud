@@ -2,7 +2,7 @@
 ## 删除了无用的菜单和容易报错的项目,后续会在2025年春节后继续更新
 ## 平台简介
 
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">witos-platform 多租户Saas快速开发平台</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Witos-platform 多租户Saas快速开发平台</h1>
 <h4 align="center">基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。</h4>
 <p align="center">
     <a style="margin-right: 5px">
