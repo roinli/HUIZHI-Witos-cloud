@@ -6,22 +6,22 @@
 <h4 align="center">基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。</h4>
 <p align="center">
     <a style="margin-right: 5px">
-       <img src="https://img.shields.io/badge/witos%20Platform-v1.2.2-brightgreen" alt="witos-platform">
+       <img src="https://img.shields.io/badge/Vctgo%20Platform-v1.2.2-brightgreen" alt="vctgo-platform">
     </a>
     <a style="margin-right: 5px" href="ttps://www.jetbrains.com/?from=RuoYi-Vue-Plus">
        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-提供支持-blue.svg" alt="IntelliJ-IDEA">
     </a>
     <a style="margin-right: 5px">
-           <img src="https://gitee.com/witos/witos-platform/badge/star.svg?theme=dark" alt="witos-platform">
+           <img src="https://gitee.com/vctgo/vctgo-platform/badge/star.svg?theme=dark" alt="vctgo-platform">
     </a>
     <a style="margin-right: 5px">
-       <img src="https://gitee.com/witos/witos-platform/badge/fork.svg?theme=dark" alt="witos-platform">
+       <img src="https://gitee.com/vctgo/vctgo-platform/badge/fork.svg?theme=dark" alt="vctgo-platform">
     </a>
    <a style="margin-right: 5px">
-           <img src="https://img.shields.io/github/stars/witos/witos-platform?logo=github" alt="witos-platform">
+           <img src="https://img.shields.io/github/stars/vctgo/vctgo-platform?logo=github" alt="vctgo-platform">
     </a>
    <a style="margin-right: 5px">
-           <img src="https://img.shields.io/github/forks/witos/witos-platform?logo=github" alt="witos-platform">
+           <img src="https://img.shields.io/github/forks/vctgo/vctgo-platform?logo=github" alt="vctgo-platform">
     </a>
 
 </p>
@@ -54,7 +54,10 @@ PS:目前已经升级服务器,修改为阿里云3M的服务器,请大家请勿�
 ## 有问题请issues有限提问,每天会定时处理!
 
 ## 交流
-+v：  jinglidream
+- 请移步右上角  **一键三连** :kissing_heart:
+- 邮箱:dhr92@163.com
+- Q群:628417588 (目前某500强企业搬砖,工作环境比较繁忙,上班期间可能无法回复相关问题)。
+
 
 ## 主要添加模块
 - 1.添加了租户功能,包含自定义租户套餐,租户到期禁用登陆等功能
