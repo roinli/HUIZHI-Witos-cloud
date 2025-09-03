@@ -90,7 +90,7 @@ PS:目前已经升级服务器,修改为阿里云3M的服务器,请大家请勿�
 
 ## 启动说明
 
-### 请参考保姆级教程  - [witos项目启动教程](https://www.witos.cn/archives/witos-xiang-mu-qi-dong-jiao-cheng)
+### 请参考保姆级教程  - [witos项目启动教程](https://http://witos.wenhui.huizhidata.com/archives/witos-xiang-mu-qi-dong-jiao-cheng)
 
 ### 其他细节说明
 ### 最新更新,项目已内置Nacos,直接启动即可
@@ -127,9 +127,9 @@ PS:目前已经升级服务器,修改为阿里云3M的服务器,请大家请勿�
 ## 一键式体验(要求linux环境)
 ##### 1.docker安装和docker-compose安装请参考文档里的-应用容器部署模块进行安装
 ##### 2.安装完成后下载项目到任意文件夹目录,自行安装 maven,jdk,node环境 下面简单提供三个教程链接仅供参考
-- [Centos7安装JDK8](https://www.witos.cn/archives/centos7-an-zhuang-jdk18-tu-wen-jiao-cheng)
-- [Centos7安装maven](https://www.witos.cn/archives/centos7-an-zhuang-maven)
-- [Centos7安装nodejs14](https://www.witos.cn/archives/centos7-an-zhuang-nodejs14)
+- [Centos7安装JDK8](https://http://witos.wenhui.huizhidata.com/archives/centos7-an-zhuang-jdk18-tu-wen-jiao-cheng)
+- [Centos7安装maven](https://http://witos.wenhui.huizhidata.com/archives/centos7-an-zhuang-maven)
+- [Centos7安装nodejs14](https://http://witos.wenhui.huizhidata.com/archives/centos7-an-zhuang-nodejs14)
 ##### 3.脚本执行
       - 1.cd ./docker 目录下 执行 copy.sh 脚本会自动进行打包编译和copy
       - 2.首先执行 sh deploy.sh base 命令进行 nacos,mysql,redis的初始化,初始化完成后建议等待10秒后执行查下一步
