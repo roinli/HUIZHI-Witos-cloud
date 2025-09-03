@@ -1,5 +1,3 @@
-## 官网问题已经修复,可以正常访问,后续如有问题请邮件联系
-## 删除了无用的菜单和容易报错的项目,后续会在2025年春节后继续更新
 ## 平台简介
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Witos-platform 多租户Saas快速开发平台</h1>
