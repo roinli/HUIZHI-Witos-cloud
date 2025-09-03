@@ -37,18 +37,18 @@
 #### 友情链接 [若依/RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud) Element UI版本。
 star 别忘点上 :kissing_heart:
 ## 项目地址
-Gitee: https://gitee.com/witos/witos-platform
+Gitee: https://github.com/roinli/HUIZHI-witos-cloud
 
-GitHub: https://github.com/witos/witos-platform
+GitHub: https://github.com/roinli/HUIZHI-witos-cloud
 ## 演示地址
 PS:目前已经升级服务器,修改为阿里云3M的服务器,请大家请勿恶心访问刷新,如果官网出现问题请邮件联系我!
-- http://platformwitos.huizhidata.com
+- http://witos.platform.huizhidata.com
 - 账号密码 admin/admin123
 - 目前演示地址权限全开,请勿随意删除相关数据,本人只做了初始化数据库备份,如果出现异常情况,会选择直接回滚初始版本
 ## 文档地址
-- https://docwitos.huizhidata.com
+- http://witos.doc.huizhidata.com
 ## 个人blog
-- https://blogwitos.huizhidata.com
+- https://wenhui.huizhidata.com
 ## 公众号-witos
 - witos 全新公众号
 ## 有问题请issues有限提问,每天会定时处理!
