@@ -1,6 +1,6 @@
 ## 平台简介
 
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">witos-platform 多租户Saas快速开发平台</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">witos-platform 慧知开源多租户Saas快速开发平台</h1>
 <h4 align="center">基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。</h4>
 <p align="center">
     <a style="margin-right: 5px">
@@ -14,7 +14,7 @@
     </a>
     <a style="margin-right: 5px">
        <img src="https://gitee.com/vctgo/vctgo-platform/badge/fork.svg?theme=dark" alt="vctgo-platform">
-    </a>
+    </a>![img.png](img.png)
    <a style="margin-right: 5px">
            <img src="https://img.shields.io/github/stars/vctgo/vctgo-platform?logo=github" alt="vctgo-platform">
     </a>
@@ -139,10 +139,7 @@ PS:目前已经升级服务器,修改为阿里云3M的服务器,请大家请勿�
 ![witos-Platform4](./doc/readme/witos-1.png)
 ![witos-Platform1](./doc/readme/witos-2.png)
 ![witos-Platform3](./doc/readme/witos-3.png)
-![witos-Platform4](./doc/readme/witos-4.png)
-![witos-Platform4](./doc/readme/witos-5.png)
-![witos-Platform2](./doc/readme/witos-6.png)
-![witos-Platform4](./doc/readme/witos-7.png)
+
 
 
 
