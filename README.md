@@ -1,3 +1,11 @@
+
+当前版本：1.0.8
+
+[🔥 witos 慧知开源Saas多租户开发平台 后端源码](https://github.com/roinli/HUIZHI-Witos-cloud)（当前）
+
+[🔥 witos 慧知开源Saas多租户开发平台 前端源码](https://github.com/roinli/HUIZHI-Witos-ui)
+
+
 ## 平台简介
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">witos-platform 慧知开源多租户Saas快速开发平台</h1>
