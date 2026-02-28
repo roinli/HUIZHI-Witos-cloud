@@ -8,7 +8,7 @@
 
 ## 平台简介
 
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">witos-platform 慧知开源多租户Saas快速开发平台</h1>
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">witos-platform 慧知・面向新能源开源多租户 SaaS 快速开发平台</h1>
 <h4 align="center">基于Ruoyi-Cloud版本改造的的多租户SaaS开发框架。</h4>
 <p align="center">
     <a style="margin-right: 5px">
